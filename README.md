@@ -113,6 +113,13 @@
 
 <img height="180" src="https://streak-stats.demolab.com?user=dongyuppen&hide_border=true&theme=tokyonight&ring=2C9CE4&fire=2C9CE4&currStreakLabel=2C9CE4" alt="streak" />
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dongyuppen/dongyuppen/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dongyuppen/dongyuppen/output/github-snake.svg" />
+  <img width="98%" alt="contribution snake" src="https://raw.githubusercontent.com/dongyuppen/dongyuppen/output/github-snake.svg" />
+</picture>
 
 </div>
 
