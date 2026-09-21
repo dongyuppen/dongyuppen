@@ -111,15 +111,26 @@
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=dongyuppen&hide_border=true&theme=tokyonight&ring=2C9CE4&fire=2C9CE4&currStreakLabel=2C9CE4" alt="streak" />
-
-<br/><br/>
+<table>
+  <tr>
+    <td valign="top" width="46%">
+      <img width="100%" src="https://raw.githubusercontent.com/dongyuppen/dongyuppen/main/metrics.svg" alt="GitHub metrics" />
+    </td>
+    <td valign="top" width="54%">
+      <img width="100%" src="https://raw.githubusercontent.com/dongyuppen/dongyuppen/main/metrics-languages.svg" alt="Most used languages" />
+      <br/>
+      <img width="100%" src="https://streak-stats.demolab.com?user=dongyuppen&hide_border=true&theme=tokyonight&ring=2C9CE4&fire=2C9CE4&currStreakLabel=2C9CE4" alt="streak" />
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dongyuppen/dongyuppen/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dongyuppen/dongyuppen/output/github-snake.svg" />
   <img width="98%" alt="contribution snake" src="https://raw.githubusercontent.com/dongyuppen/dongyuppen/output/github-snake.svg" />
 </picture>
+
+<sub>📈 통계는 매일 03:00 KST에 GitHub Actions로 자동 갱신됩니다 (비공개 저장소 포함)</sub>
 
 </div>
 
