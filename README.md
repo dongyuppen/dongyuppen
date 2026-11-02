@@ -21,10 +21,10 @@
 
 > **"의료 도메인 지식과 실무 배포 경험을 겸비한 백엔드 개발자입니다."**
 
-- 🛫 현재 항공 승무원 스케줄 관리 앱 **[Crewing(크루윙)](https://dongyuppen.github.io/posts/crewing/)** 백엔드 크루원으로, 백엔드 개발과 **AWS 인프라 운영**을 함께 담당하고 있습니다.
+- 🛫 현재 항공 승무원 스케줄 관리 앱 **[Crewing(크루윙)](https://dongyuppen.github.io/posts/crewing/)** 백엔드 크루원으로, 백엔드 개발과 **AWS 인프라 운영**을 함께 담당하고 있습니다. 최근에는 **다국어(한/영/일) 지원**, **전체 코드베이스 버그 리스크 분석**, **N+1 쿼리 제거**, **모니터링·알림 체계 구축** 등 운영 안정화를 주도하고 있습니다.
 - 🏥 **의료IT학과** 전공자로서 **EMR · FHIR · OCS · PACS** 등 HIS(병원정보시스템) 도메인에 대한 이해를 갖추고 있습니다.
-- ☁️ 기능 구현을 넘어 **AWS(EC2 · RDS · ALB) 인프라를 직접 구축**하고, 실제 유저 대상 서비스를 **배포·운영**한 경험이 있습니다.
-- 🦁 **멋쟁이사자처럼** 13기 백엔드 파트원, 14기 **대표 · 백엔드 파트장**을 역임하며 리더십과 협업 역량을 쌓았습니다.
+- ☁️ 기능 구현을 넘어 **AWS 인프라를 직접 구축**(EC2 · RDS · ALB · ECS Fargate · Terraform)하고, 실제 유저 대상 서비스를 **배포·운영**한 경험이 있습니다.
+- 🦁 **멋쟁이사자처럼** 13기 백엔드 파트원, 14기 **대표 · 백엔드 파트장**을 역임하며 리더십과 협업 역량을 쌓았습니다. 현재 **24명 규모 단체 프로젝트 [을지브릿지](https://dongyuppen.github.io/posts/eulji-bridge/)의 총괄**을 맡고 있습니다.
 - 🎯 **백엔드 / HIS 개발 분야**(이지케어텍, 비트컴퓨터, 카카오헬스케어 등)로의 진출을 목표로 기술 역량을 고도화하고 있습니다.
 
 <br/>
@@ -33,9 +33,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,graphql,mysql,redis,postgres,mongodb&theme=dark" alt="backend stack" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,react,ts,graphql,mysql,redis,postgres,mongodb&theme=dark" alt="backend stack" />
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,linux,git,github,idea&theme=dark" alt="infra stack" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,nginx,linux,git,github,idea&theme=dark" alt="infra stack" />
 
 </div>
 
@@ -49,6 +49,7 @@
       <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+      <img src="https://img.shields.io/badge/STOMP%20WebSocket-000000?style=flat-square&logo=socketdotio&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -74,6 +75,10 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/ECS%20Fargate-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
+      <img src="https://img.shields.io/badge/ElastiCache-C925D1?style=flat-square&logo=amazonelasticache&logoColor=white" />
+      <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -94,7 +99,10 @@
 
 | 프로젝트 | 소개 | 역할 | 기술 | 링크 |
 | :--- | :--- | :--- | :--- | :---: |
-| 🛫 **Crewing** <br/> `진행 중` | 항공 승무원 스케줄 관리 앱 | 백엔드 · AWS 인프라 | `Spring Boot` `MySQL` `Redis` `AWS` `Docker` | [📄](https://dongyuppen.github.io/posts/crewing/) |
+| 🛫 **Crewing** <br/> `진행 중` | 항공 승무원 스케줄 관리 앱 | 백엔드 · AWS 인프라 | `Spring Boot` `MySQL` `Redis` `AWS` `Docker` `i18n` | [📄](https://dongyuppen.github.io/posts/crewing/) |
+| 🎲 **윱놀이 (UbNori)** <br/> `진행 중` | 대학 대항전 실시간 온라인 윷놀이 | 개인 · 전 영역 단독 | `Spring Boot 4` `WebSocket` `Redis` `ECS Fargate` `Terraform` | [📄](https://dongyuppen.github.io/posts/ubnori/) |
+| 🌉 **을지브릿지** <br/> `진행 중` | 재학·휴학·졸업생 통합 커뮤니티 | **총괄** (24명 팀) | `기획` `API 계약` `일정·인원 관리` | [📄](https://dongyuppen.github.io/posts/eulji-bridge/) |
+| 🛒 **BestPay** | 문구점 온라인 주문·매장 픽업 | 개인 · 설계/개발 | `Spring Boot 4` `MySQL` `Flyway` `OAuth2` `JWT` | [📄](https://dongyuppen.github.io/posts/bestpay/) |
 | 🤖 **EulGPT** <br/> `진행 중` | 을지대 전용 학사정보 AI 챗봇 | 백엔드 | `Spring Boot` `Gemini API` | [📄](https://dongyuppen.github.io/posts/eulgpt/) |
 | 🏥 **MediNote** | QR 기반 사전 진료(문진) 연동 시스템 | 개인 · 설계/개발 | `Spring Boot` `MySQL` `AWS` `HL7 FHIR` | [📄](https://dongyuppen.github.io/posts/medinote-project/) |
 | 👋 **Hello Friends** | 신·편입생 드림데이즈 친구 매칭 서비스 | 백엔드 · 인프라 | `Spring Boot` `JPA` `AWS` | [📄](https://dongyuppen.github.io/posts/hello-friends/) · [💻](https://github.com/dongyuppen/hellofriend_BE) |
