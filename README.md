@@ -103,7 +103,7 @@
 | 🎲 **윱놀이 (UbNori)** <br/> `진행 중` | 대학 대항전 실시간 온라인 윷놀이 | 개인 · 전 영역 단독 | `Spring Boot 4` `WebSocket` `Redis` `ECS Fargate` `Terraform` | [📄](https://dongyuppen.github.io/posts/ubnori/) |
 | 🌉 **을지브릿지** <br/> `진행 중` | 재학·휴학·졸업생 통합 커뮤니티 | **총괄** (24명 팀) | `기획` `API 계약` `일정·인원 관리` | [📄](https://dongyuppen.github.io/posts/eulji-bridge/) |
 | 🛒 **BestPay** <br/> `미배포` | 문구점 온라인 주문·매장 픽업 | 개인 · 설계/개발 | `Spring Boot 4` `MySQL` `Flyway` `OAuth2` `JWT` | [📄](https://dongyuppen.github.io/posts/bestpay/) |
-| 🤖 **EulGPT** <br/> `운영 중지` | 을지대 전용 학사정보 AI 챗봇 | 백엔드 | `Spring Boot` `Gemini API` | [📄](https://dongyuppen.github.io/posts/eulgpt/) |
+| 🤖 **EulGPT** <br/> `운영 종료` | 을지대 전용 학사정보 AI 챗봇 | 백엔드 | `Spring Boot` `Gemini API` | [📄](https://dongyuppen.github.io/posts/eulgpt/) |
 | 🏥 **MediNote** | QR 기반 사전 진료(문진) 연동 시스템 | 개인 · 설계/개발 | `Spring Boot` `MySQL` `AWS` `HL7 FHIR` | [📄](https://dongyuppen.github.io/posts/medinote-project/) |
 | 👋 **Hello Friends** <br/> `운영 종료` | 신·편입생 드림데이즈 친구 매칭 서비스 | 백엔드 · 인프라 | `Spring Boot` `JPA` `AWS` | [📄](https://dongyuppen.github.io/posts/hello-friends/) · [💻](https://github.com/dongyuppen/hellofriend_BE) |
 | 🏆 **캠잡 (Camp-job)** | 교내 활동 기반 경력 관리 플랫폼 <br/> **아이디어톤 2등 수상** | 백엔드 | `Spring Boot` `AWS` | [📄](https://dongyuppen.github.io/posts/camp-job/) |
@@ -151,7 +151,7 @@
 2025.03 ─ 현재       을지대학교 의료IT학과 4학년 (편입 · 졸업예정)
 
 2025      멋쟁이사자처럼 13기  ·  백엔드 파트원
-2026.02 ─ EulGPT(을지피티)     ·  백엔드 크루원 (운영 중지)
+2026.02 ─ EulGPT(을지피티)     ·  백엔드 크루원 (2026.06 종료)
 2026    ─ Crewing(크루윙)      ·  백엔드 크루원 / AWS 인프라
 2026    ─ 멋쟁이사자처럼 14기  ·  대표 · 백엔드 파트장
 ```
